@@ -1,0 +1,6 @@
+Hello, find here system data.
+Netstat logs
+Routing logs. IP: 189.114.10.10
+This is line 4 appended to the file.
+67890
+Appending line 6.
